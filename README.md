@@ -1,4 +1,4 @@
-# EstateRate Estimator
+# Rate Estimator
 
 ![site_preview](https://github.com/rdhruv723/House-Price-Prediction/assets/96113268/2945adfb-2635-41b9-9811-f9b8ada32aa9)
 
